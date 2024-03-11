@@ -22,6 +22,8 @@ Facial direction detection plays a crucial role in various applications such as 
 
 [Link to Video](https://drive.google.com/file/d/1BrmK384qTncyv5a_YST-RhSUDKumBTlk/view?usp=sharing)
 
+[![Watch the video](https://drive.google.com/uc?id=1BrmK384qTncyv5a_YST-RhSUDKumBTlk)](https://drive.google.com/file/d/1BrmK384qTncyv5a_YST-RhSUDKumBTlk/view?usp=sharing)
+
 ## Requirements
 
 - Python 3.x
