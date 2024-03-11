@@ -19,26 +19,8 @@ Facial direction detection plays a crucial role in various applications such as 
 - Visualizes the predicted orientation by drawing a 3D axis on the detected faces.
 - Supports both image and video processing for real-time facial direction detection.
 # video processing 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Player</title>
-</head>
-<body>
-    <video width="640" height="360" controls>
-        <source src="test data/lucy2.mp4.mp4" type="lucy2/mp4">
-        Your browser does not support the video tag.
-    </video>
-</body>
-</html>
 
 [Link to Video](https://drive.google.com/file/d/1BrmK384qTncyv5a_YST-RhSUDKumBTlk/view?usp=sharing)
-
-[![Video Processing](https://drive.google.com/uc?export=download&id=1BrmK384qTncyv5a_YST-RhSUDKumBTlk)](https://drive.google.com/file/d/1BrmK384qTncyv5a_YST-RhSUDKumBTlk/view?usp=sharing)
-
-[![](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
 
 ## Requirements
 
