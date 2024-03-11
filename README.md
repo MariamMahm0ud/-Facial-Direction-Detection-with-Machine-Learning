@@ -4,16 +4,18 @@
 
 This project focuses on detecting facial direction, specifically the yaw, pitch, and roll angles, using machine learning techniques. By utilizing facial landmark detection and machine learning models, it predicts the orientation of faces in images and videos.
 ![image](https://github.com/MariamMahm0ud/-Facial-Direction-Detection-with-Machine-Learning/assets/159249412/a3fe7448-da58-4391-be13-d2bd9462ffb7)
+![image](https://github.com/MariamMahm0ud/-Facial-Direction-Detection-with-Machine-Learning/assets/159249412/8d1653ec-835a-4ee1-9217-86e94b23e9d5)
 
 ## Overview
 
 Facial direction detection plays a crucial role in various applications such as facial recognition, augmented reality, driver monitoring systems, and human-computer interaction. This project aims to provide a robust and efficient solution for accurately determining the orientation of human faces in real-world scenarios.
+![image](https://github.com/MariamMahm0ud/-Facial-Direction-Detection-with-Machine-Learning/assets/159249412/3f5e278f-eae8-4e7f-a9df-6b08665266a8)
 
 ## Features
 
 - Utilizes MediaPipe FaceMesh for facial landmark detection.
 - Normalizes facial landmark points to improve model performance.
-- Trains machine learning models (e.g., XGBoost, Support Vector Regression) to predict yaw, pitch, and roll angles.
+- Trains machine learning models ( XGBoost, Support Vector Regression) to predict yaw, pitch, and roll angles.
 - Visualizes the predicted orientation by drawing a 3D axis on the detected faces.
 - Supports both image and video processing for real-time facial direction detection.
 
