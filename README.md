@@ -1,7 +1,9 @@
 # Facial Direction Detection with Machine Learning
 ![image](https://github.com/MariamMahm0ud/-Facial-Direction-Detection-with-Machine-Learning/assets/159249412/159ba3e6-de88-4c76-be1e-247e4a2c2dd4)
+![image](https://github.com/MariamMahm0ud/-Facial-Direction-Detection-with-Machine-Learning/assets/159249412/c6badc44-c980-4bc9-a9df-25d2b1e2e7a4)
 
 This project focuses on detecting facial direction, specifically the yaw, pitch, and roll angles, using machine learning techniques. By utilizing facial landmark detection and machine learning models, it predicts the orientation of faces in images and videos.
+![image](https://github.com/MariamMahm0ud/-Facial-Direction-Detection-with-Machine-Learning/assets/159249412/a3fe7448-da58-4391-be13-d2bd9462ffb7)
 
 ## Overview
 
