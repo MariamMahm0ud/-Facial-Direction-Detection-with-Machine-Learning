@@ -49,7 +49,7 @@ In conclusion, the project "Facial Direction Detection with Machine Learning" ai
 
 Throughout the project, several key steps were undertaken:
 
-Data Collection: A dataset containing images and corresponding facial landmark annotations was collected. Additionally, video data was used for real-time facial direction detection.
+Data Collection: using AFLW2000 Dataset containing images and corresponding facial landmark annotations was collected. Additionally, video data was used for real-time facial direction detection.
 
 Feature Extraction: Facial landmarks were extracted from the images and videos using the MediaPipe FaceMesh model. These landmarks served as the input features for the machine learning models.
 
