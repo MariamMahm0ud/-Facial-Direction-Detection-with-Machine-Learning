@@ -43,3 +43,20 @@ Facial direction detection plays a crucial role in various applications such as 
 5. Test the system with various images and videos to evaluate its accuracy and performance.
 
 
+## Conclusion
+
+In conclusion, the project "Facial Direction Detection with Machine Learning" aimed to utilize machine learning techniques to predict the direction of facial orientation based on facial landmarks extracted from images and videos.
+
+Throughout the project, several key steps were undertaken:
+
+Data Collection: A dataset containing images and corresponding facial landmark annotations was collected. Additionally, video data was used for real-time facial direction detection.
+
+Feature Extraction: Facial landmarks were extracted from the images and videos using the MediaPipe FaceMesh model. These landmarks served as the input features for the machine learning models.
+
+Model Training: XGBoost and Support Vector Regression (SVR) models were trained to predict the yaw, pitch, and roll angles representing facial direction based on the extracted facial landmarks.
+
+Evaluation: The trained models were evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R2) on both validation and test datasets to assess their performance.
+
+Application: The trained models were applied to real-world scenarios, including processing images and videos to predict and visualize facial direction.
+
+Overall, the project demonstrates the feasibility of using machine learning models to accurately predict facial direction based on facial landmarks. 
